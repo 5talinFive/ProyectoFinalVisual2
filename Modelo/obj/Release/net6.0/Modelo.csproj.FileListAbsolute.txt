@@ -1,0 +1,13 @@
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\bin\Release\net6.0\Modelo.deps.json
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\bin\Release\net6.0\Modelo.runtimeconfig.json
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\bin\Release\net6.0\Modelo.dll
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\bin\Release\net6.0\ref\Modelo.dll
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\bin\Release\net6.0\Modelo.pdb
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\obj\Release\net6.0\Modelo.dll
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\obj\Release\net6.0\ref\Modelo.dll
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\obj\Release\net6.0\Modelo.pdb
+E:\Desarrollo\proyectoFinal\proyectoFinal\ProyectoFinal-master\Modelo\obj\Release\net6.0\Modelo.genruntimeconfig.cache
